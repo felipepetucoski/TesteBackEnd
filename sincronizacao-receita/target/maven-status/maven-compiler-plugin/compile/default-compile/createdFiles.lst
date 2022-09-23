@@ -1,0 +1,5 @@
+com\example\sincronizacaoreceita\dto\ReceitaSyncDTO$ReceitaSyncDTOBuilder.class
+com\example\sincronizacaoreceita\entities\ReceitaSync.class
+com\example\sincronizacaoreceita\service\ReceitaService.class
+com\example\sincronizacaoreceita\dto\ReceitaSyncDTO.class
+com\example\sincronizacaoreceita\SincronizacaoReceitaApplication.class
